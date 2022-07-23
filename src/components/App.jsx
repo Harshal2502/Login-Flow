@@ -1,14 +1,12 @@
 import React from "react";
+import Login from "./Login";
+
+var isRegistered = false;
 
 function App() {
   return (
     <div className="container">
-      <h1>Hello</h1>
-      <form className="form">
-        <input type="text" placeholder="Username" />
-        <input type="password" placeholder="Password" />
-        <button type="submit">Login</button>
-      </form>
+      {isRegistered ? <Login flag={isRegistered} /> : <Login flag={isRegistered} />}
     </div>
   );
 }
