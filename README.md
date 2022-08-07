@@ -1,2 +1,2 @@
 # Login-Flow-
-A beautiful login flow page with react!
+A beautiful static login flow page with react!
