@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Login-Flow/static/js/main.738ee311.chunk.js",
+    "main.js.map": "/Login-Flow/static/js/main.738ee311.chunk.js.map",
+    "runtime-main.js": "/Login-Flow/static/js/runtime-main.5bf37aec.js",
+    "runtime-main.js.map": "/Login-Flow/static/js/runtime-main.5bf37aec.js.map",
+    "static/js/2.bc376ad1.chunk.js": "/Login-Flow/static/js/2.bc376ad1.chunk.js",
+    "static/js/2.bc376ad1.chunk.js.map": "/Login-Flow/static/js/2.bc376ad1.chunk.js.map",
+    "index.html": "/Login-Flow/index.html",
+    "precache-manifest.d23986f5f33a67625a3aaff75d926a50.js": "/Login-Flow/precache-manifest.d23986f5f33a67625a3aaff75d926a50.js",
+    "service-worker.js": "/Login-Flow/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf37aec.js",
+    "static/js/2.bc376ad1.chunk.js",
+    "static/js/main.738ee311.chunk.js"
+  ]
+}
